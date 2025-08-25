@@ -7,6 +7,8 @@ Repositori ini berisi dokumen portofolio, hasil proyek, dan beberapa contoh peke
 Klik tautan di bawah untuk melihat portofolio saya secara langsung:
 
 [**📂 Lihat Portofolio (PDF)**](https://github.com/MuzniZakiRiyadi/Portfolio/raw/main/Portofolio_Muzni%20Zaki%20Riyadi.pdf)
+[**📂 Lihat Olahkarsa (PDF)**]([https://github.com/MuzniZakiRiyadi/Portfolio/raw/main/Portofolio_Muzni%20Zaki%20Riyadi.pdf])
+[**📂 NPL (PDF)**](https://github.com/MuzniZakiRiyadi/Portfolio/raw/main/Portofolio_Muzni%20Zaki%20Riyadi.pdf)
 
 ## 📊 Proyek yang Pernah Dikerjakan
 - **Sentiment Analysis & Text Classification** — Analisis ulasan aplikasi menggunakan NLP dan Machine Learning.
