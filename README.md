@@ -15,6 +15,6 @@ Klik tautan di bawah untuk melihat portofolio saya secara langsung:
 
 ## 📬 Kontak
 Jika ingin berkomunikasi lebih lanjut, silakan hubungi saya melalui:
-- **Email:** muznizakiriya@example.com
+- **Email:** muznizakiriyadi@example.com
 - **LinkedIn:** [linkedin.com/in/muznizakiriyadi](https://linkedin.com/in/muznizakiriyadi)
 - **GitHub:** [github.com/MuzniZakiRiyadi](https://github.com/MuzniZakiRiyadi)
